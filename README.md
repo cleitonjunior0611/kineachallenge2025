@@ -1,5 +1,9 @@
 # 🧠 Kinea Summer Job — July/August 2025
 
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
+![LLM](https://img.shields.io/badge/LLM-OpenAI%2FLlama-green)
+![ML](https://img.shields.io/badge/Machine%20Learning-Scikit--learn-red)
+
 Project for automating the reading and analysis of investment fund documents, focusing on data extraction, product clustering, and insight generation for the Kinea Investments product team.
 
 ## 📌 Objective 
