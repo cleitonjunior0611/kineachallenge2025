@@ -2,7 +2,7 @@
 
 Project for automating the reading and analysis of investment fund documents, focusing on data extraction, product clustering, and insight generation for the Kinea Investments product team.
 
-## 📌 Objective
+## 📌 Objective 
 
 Develop a solution based on large language models (LLMs) to automate the extraction of essential information from fund prospectuses — both from Kinea and competitors — and generate market reports with relevant analysis to support decision-making.
 
