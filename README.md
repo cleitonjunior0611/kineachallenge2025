@@ -1,4 +1,4 @@
-# 🧠 Kinea's Challenge — July 2025
+# 🧠 Kinea Summer Job — July/August 2025
 
 Project for automating the reading and analysis of investment fund documents, focusing on data extraction, product clustering, and insight generation for the Kinea Investments product team.
 
