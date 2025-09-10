@@ -28,6 +28,8 @@ Develop a solution based on large language models (LLMs) to automate the extract
 
 ## Authors
 Cleiton Junior
+
 Guilherme Monteiro
+
 Arthur Sales
 
